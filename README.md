@@ -1,16 +1,16 @@
-### Hi there 👋
+# Johanna Fleischanderl - Marketing Professional and Digital Humanities Student
 
-<!--
-**fleischi1010/fleischi1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Marketing professional with 4 years of experience and currently pursuing my studies in Digital Humanities. Based in Graz, I am passionate about the intersection of technology and communication and constantly seeking new opportunities to enhance my skills and knowledge in this field.
 
-Here are some ideas to get you started:
+## Projects
+As part of my journey, I have worked on a number of projects that showcase my skills in SEO and Social Media Research. Here are some highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project 1
+
+
+### Project 2
+
+
+## Contact Me
+If you are interested in learning more about my projects or have any questions, feel free to contact me at [fleischanderljohanna@gmail.com](mailto:fleischanderljohanna@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/johanna-fleischanderl/).
